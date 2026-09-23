@@ -38,7 +38,7 @@
 <br>
 </p>
 - 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am batman. 😎🦇 
+- ⚡ Fun fact: ... 🌀
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ahmad-shaikh575&theme=gruvbox" alt="muhammadfaizanhaidar"  /></p>
