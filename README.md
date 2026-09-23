@@ -9,11 +9,11 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
+- 🔭 I’m currently working on editing github
 - 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
 - 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
 - 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
+- 💬 Ask me about Programming or coding
 - 📫 I am also a technical writer at Medium 
 -  📰 Articles: 
 	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
